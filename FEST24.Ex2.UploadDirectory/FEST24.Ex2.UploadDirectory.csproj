@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>FEST24.Workshop.Exercise2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FEST24.Ex1.Authentication\FEST24.Ex1.Authentication.csproj" />
+    <ProjectReference Include="..\FEST24.Base\FEST24.Base.csproj" />
+  </ItemGroup>
+
+</Project>

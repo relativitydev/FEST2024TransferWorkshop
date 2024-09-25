@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FEST24.Base", "FEST24.Base\FEST24.Base.csproj", "{74543E25-4E19-4A92-BC5B-EDF35F633A3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FEST24.Ex2.UploadDirectory", "FEST24.Ex2.UploadDirectory\FEST24.Ex2.UploadDirectory.csproj", "{F9810743-D297-4168-853C-6058401BFD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEST24.Ex3.DownloadDirectory", "FEST24.Ex3.DownloadDirectory\FEST24.Ex3.DownloadDirectory.csproj", "{3587FE67-4AD4-4A4C-9F33-CF6DD35E4924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEST24.Ex1.Authentication", "FEST24.Ex1.Authentication\FEST24.Ex1.Authentication.csproj", "{5E913A0E-DCF8-44F9-80AE-33115A297271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEST24.Ex4.UploadItems", "FEST24.Ex4.UploadItems\FEST24.Ex4.UploadItems.csproj", "{67F76C7B-1A22-44DB-84F3-ED86739C6BC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FEST24.Ex5.Import", "FEST24.Ex5.Import\FEST24.Ex5.Import.csproj", "{9280C082-3085-45DE-BB4A-E1A168245155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74543E25-4E19-4A92-BC5B-EDF35F633A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74543E25-4E19-4A92-BC5B-EDF35F633A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74543E25-4E19-4A92-BC5B-EDF35F633A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74543E25-4E19-4A92-BC5B-EDF35F633A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9810743-D297-4168-853C-6058401BFD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9810743-D297-4168-853C-6058401BFD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9810743-D297-4168-853C-6058401BFD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9810743-D297-4168-853C-6058401BFD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3587FE67-4AD4-4A4C-9F33-CF6DD35E4924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3587FE67-4AD4-4A4C-9F33-CF6DD35E4924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3587FE67-4AD4-4A4C-9F33-CF6DD35E4924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3587FE67-4AD4-4A4C-9F33-CF6DD35E4924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E913A0E-DCF8-44F9-80AE-33115A297271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E913A0E-DCF8-44F9-80AE-33115A297271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E913A0E-DCF8-44F9-80AE-33115A297271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E913A0E-DCF8-44F9-80AE-33115A297271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F76C7B-1A22-44DB-84F3-ED86739C6BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F76C7B-1A22-44DB-84F3-ED86739C6BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F76C7B-1A22-44DB-84F3-ED86739C6BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F76C7B-1A22-44DB-84F3-ED86739C6BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9280C082-3085-45DE-BB4A-E1A168245155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9280C082-3085-45DE-BB4A-E1A168245155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9280C082-3085-45DE-BB4A-E1A168245155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9280C082-3085-45DE-BB4A-E1A168245155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83372B86-F8AC-4529-B73D-60728A968E6B}
+	EndGlobalSection
+EndGlobal

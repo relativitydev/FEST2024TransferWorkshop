@@ -1,0 +1,5 @@
+c:\DataSet\ImportSource\VOL01\NATIVES\NATIVE00001\EDRM-Sample1.pdf;ImportExercise\VOL01\NATIVES\NATIVE00001\EDRM-Sample1.pdf
+c:\DataSet\ImportSource\VOL01\NATIVES\NATIVE00001\EDRM-Sample2.doc;ImportExercise\VOL01\NATIVES\NATIVE00001\EDRM-Sample2.doc
+c:\DataSet\ImportSource\VOL01\NATIVES\NATIVE00001\EDRM-Sample3.xlsx;ImportExercise\VOL01\NATIVES\NATIVE00001\EDRM-Sample3.xlsx
+c:\DataSet\ImportSource\VOL01\NATIVES\NATIVE00001\EDRM-Sample4.msg;ImportExercise\VOL01\NATIVES\NATIVE00001\EDRM-Sample4.msg
+C:\DataSet\ImportSource\load_file_01.dat;ImportExercise\load_file_01.dat
